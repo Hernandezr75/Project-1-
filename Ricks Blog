@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>My Blog</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+
+<body>
+    <!-- navigation -->
+    <header>
+        <h1>
+            <a href="/">
+                RICK'S BLOG
+            </a>
+        </h1>
+        <a href="mailto:hernandezr75@hotmail.com" class="button">Send Email</a>
+        <a href="https://www.linkedin.com/inricardoher/" class="linkedin"><img
+                src="assets/images/LinkedIn-logo.png" alt="LinkedIn logo"
+                height="45px" />
+        </a>
+
+    </header>
+
+
+    <!-- "About" section -->
+    <section id="about" class="intro">
+        <!--Replace with your own image-->
+
+
+        <img src="https://media.licdn.com/dms/image/C5603AQGgs5a2MuyWBA/profile-displayphoto-shrink_800_800/0/1516882066224?e=1724889600&v=beta&t=HuHnP0JLHPfxsrsBXT9VsUBZsdHGSNXjZ2ofDsQ_ezY"
+            alt="Robert Smith picture" height=375px;>
+        <h2 class="section-title">Hi, I'm Rick!</h2>
+        <p>I'm Ricardo Hernandez, a seasoned IT professional with over a decade of experience in the field. Over the years, I've had the privilage of serving
+           varios roles , each of which has allowed me to make a positive impact in the organizations i've been part of.
+           I'm thrilled to embark ona new path in Cyber Security. So, stay tuned for more updates and let's explore hte facinating world of cyber security together!
+
+
+            <br><br>
+
+        </p>
+    </section>
+
+
+<!-- "Blog Posts" section -->
+    <section id="blog-post-collection" class="blog-posts">
+        <h2 class="section-title">Blog Posts</h2>
+        <article class="blog-post">
+            <img src="assets/images/Image1.jpg" alt="Image 1">
+
+            <div class="blog">
+                <h3>How Analyst can use AI in cyber security</h3>
+                <h4>AI Cyberseurity </h4>
+                <p>Artificial Intelligence (AI) plays a crucial role in cybersecurity.
+                   It is used to automate tasks that are highly repetitive, manually-intensive, and tedious for security analysts1.
+                   AI enhances threat detection, prediction, and response capabilities by analyzing vast amounts of data to identify patterns and anomalies.
+                   AI can learn the context, environment, and behaviors associated with specific endpoints as well as asset types and network services.
+                   It can then limit access to authorized devices based on these insights, and prevent access entirely for unauthorized and unmanaged devices.
+
+                   AI in cybersecurity can also be used for automatic cyber threat detection, generating alerts, identifying new strands of malware, and protecting businesse sensitive data.
+                   It can improve the efficiency of cybersecurity analysts, identify and prevent cyber threats more quickly, effectively respond to cyber attacks, and reduce cybersecurity costs.
+
+                   In summary, AI is increasingly critical to protecting online systems from attacks by cyber criminals and unauthorized access attempts, making it an invaluable tool for cybersecurity
+                   analysts. It not only enhances their threat intelligence capabilities but also saves them time discovering new threats4. This allows organizations to enhance their security investments
+                   and improve operations without having to worry about finding additional skilled personnel.
+                </p>
+            </div>
+        </article>
+
+
+ <!-- second blog post -->
+        <article class="blog-post">
+            <img src="assets/images/Image2.jpg" alt="Image-2">
+            <div class="blog">
+                <h3>AI-driven cyber attacks to be the norm within a year, say security leadersCyber</h3>
+                <h4>Cyber Attack AI Driven</h4>
+                <p>
+                    Recently AI has been constantly looked at the newest weapon to fight cyber attacks
+                    with the ease of programing and algorithyms it is being used in offence and defence in the
+                    cyber security battle. On that note AI is also starting to be used to create cyber attacksit is
+                    enhancing the way cyber criminals are using to their benefit this new technology.
+                    The pressure is on security leaders to do more with less, and so the rise of the use of AI to enhance cyber attacks could not have come at a worse time,
+                    said Andy Still, CTO & Co-Founder, Netacea.
+                    AI's power and low barrier to entry means that it will be used in many ways, including cyberattacks. While it's heartening that so many leaders recognise
+                    the everyday threat they face from AI, there are gaps in understanding where the most damaging threats are coming from. In the arms race between offensive
+                    and defensive AI, it's important to recognise that AI will be used anywhere it can be, and they need to respond in kind.
+
+
+
+                </p>
+            </div>
+        </article>
+    </section>
+</body>
+
+</html>
+AI
